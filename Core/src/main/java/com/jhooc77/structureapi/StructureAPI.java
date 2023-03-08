@@ -34,7 +34,7 @@ public final class StructureAPI {
                     return new StructureManager_V1_12_R1();
                 case "v1_16_R3":
                     logger.info("StructureAPI loaded - v1_16_R3");
-                    return new StructureManager_V1_19_R2_Arclight();
+                    return new StructureManager_V1_16_R3();
             }
         }
         logger.info("StructureAPI failed to load");
