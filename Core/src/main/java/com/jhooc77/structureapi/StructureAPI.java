@@ -21,6 +21,9 @@ public final class StructureAPI {
                 case "v1_19_R2":
                     logger.info("StructureAPI loaded - v1_19_R2_Arclight");
                     return new StructureManager_V1_19_R2_Arclight();
+                case "v1_19_R3":
+                    logger.info("StructureAPI loaded - v1_19_R3_Arclight");
+                    return new StructureManager_V1_19_R3_Arclight();
             }
         } catch (ClassNotFoundException e) {
         }

@@ -17,6 +17,7 @@
         <module>V1_17</module>
         <module>V1_19_R1_Arclight</module>
         <module>V1_19_R2_Arclight</module>
+        <module>V1_19_R3_Arclight</module>
     </modules>
 
     <properties>
